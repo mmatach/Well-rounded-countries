@@ -10,3 +10,5 @@ Data sets were rescaled in a way that "1" was assigned to the lowest value, and 
 
 Finished project:
 https://www.behance.net/gallery/75731971/Well-rounded-countries
+
+PS. That's my first code ever :)
